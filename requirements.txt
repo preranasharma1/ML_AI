@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+plotly
+opencv-python
+scikit-image
+cmake
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
+#to download all libraries together:
+#python3 -m pip intall -r requirements.txt
